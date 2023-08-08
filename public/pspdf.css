@@ -1,0 +1,96 @@
+.PSPDFKit-Annotation-Tooltip
+{
+    background-color: white;
+    border-radius: 5px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.PSPDFKit-Form-Creator-Popover
+{
+    display: none;
+}
+
+.PSPDFKit-Tool-Node
+{
+    border-radius: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.PSPDFKit-Annotation-Tool-Node
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.custom__properties
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    min-width: 200px;
+    width: 360px;
+    max-height: 400px;
+    overflow: auto;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    /* padding: 5px; */
+}
+
+.custom__properties__header
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid #d8dfeb;
+    background-color: #e6e7e8;
+    min-width: 100%;
+}
+
+.custom__properties__heading
+{
+    color: #2b2e36;
+    padding: 6px;
+    margin: 0px;
+}
+
+
+
+.custom__properties__options__container
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    border-bottom: 1px solid #d8dfeb;
+    padding-block: 5px 5px;
+}
+
+
+.custom__properties__select
+{
+    min-width: 48%;
+    margin: 2px;
+    padding-block: 5px 5px;
+    background-color: #e6e7e8;
+    font-size: 16px;
+}
+
+.custom__properties__button
+{
+    min-width: 100px;
+    margin: 2px;
+    padding-block: 5px 5px;
+    font-size: 18px;
+}
+
